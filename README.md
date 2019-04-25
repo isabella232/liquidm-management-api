@@ -1,2 +1,3 @@
-# liquidm-management-api
-API for campaign management in LiquidM DSP
+# LiquidM Management API
+
+_Under development..._
